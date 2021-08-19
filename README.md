@@ -42,7 +42,7 @@ Users should be able to:
 
 ### What I learned
 
-Filter allows you to change the color of an svg used in an image tag.
+Filter allows you to change the color of an svg used in an image tag.  However, it is very hard to get an exact match using filter.
 
 ### Continued development
 
